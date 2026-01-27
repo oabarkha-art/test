@@ -39,7 +39,7 @@ export default defineConfig({
   plugins,
   resolve: {
     alias: {
-      "@": "src",
+      "@": "/src",
       "@shared": "/shared",
       "@assets": "/attached_assets",
     },
