@@ -34,7 +34,8 @@ if (process.env.NODE_ENV !== "production") {
 const plugins = [react(), tailwindcss(), ...localPlugins];
 
 export default defineConfig({
-  root: "client", // Root ist client/
+  root: "client",
+  base: "/",// Root ist client/
   plugins,
   resolve: {
     alias: {
