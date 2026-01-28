@@ -183,10 +183,10 @@ export default function Contact() {
                 <div>
                   <h3 className="font-semibold text-foreground mb-1">E-Mail</h3>
                   <a
-                    href="mailto:svea@example.com"
+                    href="mailto:abarkha@outlook.com"
                     className="text-muted-foreground hover:text-primary transition-colors"
                   >
-                    svea@example.com
+                    abarkha@outlook.com
                   </a>
                 </div>
               </div>
@@ -255,7 +255,7 @@ export default function Contact() {
             </p>
             <div className="flex items-center gap-6">
               <a
-                href="mailto:svea@example.com"
+                href="mailto:abarkha@outlook.com"
                 className="text-sm text-foreground hover:text-primary transition-colors"
               >
                 E-Mail
